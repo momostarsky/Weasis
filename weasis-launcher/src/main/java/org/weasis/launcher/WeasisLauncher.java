@@ -56,7 +56,7 @@ import org.osgi.framework.Bundle;
 import org.osgi.framework.Constants;
 import org.osgi.framework.Version;
 import org.osgi.util.tracker.ServiceTracker;
-import sun.net.www.protocol.file.FileURLConnection;
+import org.jboss.vfs.protocol.FileURLConnection;
 
 /**
  * @author Richard S. Hall
